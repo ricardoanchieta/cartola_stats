@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cartola_stats/static/css/main.3bdeaf37.css",
-    "main.js": "/cartola_stats/static/js/main.88d5823c.js",
+    "main.js": "/cartola_stats/static/js/main.da047947.js",
     "index.html": "/cartola_stats/index.html",
     "main.3bdeaf37.css.map": "/cartola_stats/static/css/main.3bdeaf37.css.map",
-    "main.88d5823c.js.map": "/cartola_stats/static/js/main.88d5823c.js.map"
+    "main.da047947.js.map": "/cartola_stats/static/js/main.da047947.js.map"
   },
   "entrypoints": [
     "static/css/main.3bdeaf37.css",
-    "static/js/main.88d5823c.js"
+    "static/js/main.da047947.js"
   ]
 }
