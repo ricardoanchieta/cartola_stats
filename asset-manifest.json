@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cartola_stats/static/css/main.3bdeaf37.css",
+    "main.js": "/cartola_stats/static/js/main.1794ea42.js",
+    "index.html": "/cartola_stats/index.html",
+    "main.3bdeaf37.css.map": "/cartola_stats/static/css/main.3bdeaf37.css.map",
+    "main.1794ea42.js.map": "/cartola_stats/static/js/main.1794ea42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bdeaf37.css",
+    "static/js/main.1794ea42.js"
+  ]
+}

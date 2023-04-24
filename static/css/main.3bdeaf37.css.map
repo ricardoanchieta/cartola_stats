@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3bdeaf37.css","mappings":"AAAA,kCAEI,sBAAyB,CADzB,kBAEJ","sources":["css/CardJogador.module.css"],"sourcesContent":[".cardContainer {\r\n    border-radius: 15px;\r\n    background-color: #F0E68C;\r\n}"],"names":[],"sourceRoot":""}
